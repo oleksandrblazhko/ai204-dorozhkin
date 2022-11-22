@@ -105,7 +105,6 @@
             <td>Число</td>
             <td>Значення від 0 до 5</td>
         </tr>
-        
         <tr>
             <td rowspan="2">List of exercises</td>
             <td>ID</td>
@@ -119,8 +118,6 @@
             <td>Текст</td>
             <td>Довжина <= 300 символів</td>
         </tr>
-        
-        
         <tr>
             <td rowspan="2">Basket</td>
             <td>Total cost</td>
