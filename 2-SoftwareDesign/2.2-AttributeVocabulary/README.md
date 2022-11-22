@@ -64,9 +64,9 @@
         <tr>
             <td rowspan="4">Physical exercise</td>
             <td>ID</td>
-            <td>Порядковий номер вправи</td>
-            <td>Число</td>
-            <td>Значення > 0, індивідуальне значення</td>
+            <td>Логін творця списку</td>
+            <td>Текст</td>
+            <td>Довжина <= 20 символів</td>
         </tr>
         <tr>
             <td>Description</td>
