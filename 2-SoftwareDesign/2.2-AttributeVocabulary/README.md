@@ -106,6 +106,25 @@
             <td>Значення від 0 до 5</td>
         </tr>
         <tr>
+            <td rowspan="3">Basket</td>
+            <td>ID</td>
+            <td>Логін власника</td>
+            <td>Текст</td>
+            <td>Довжина <= 20 символів</td>
+        </tr>
+        <tr>
+            <td>Total cost</td>
+            <td>Сума ціни продуктів у кошику</td>
+            <td>Число</td>
+            <td>Значення < 100000</td>
+        </tr>
+        <tr>
+            <td>Condition</td>
+            <td>Статус набору</td>
+            <td>Текст</td>
+            <td>Довжина <= 50 символів</td>
+        </tr>
+        <tr>
             <td rowspan="2">List of exercises</td>
             <td>ID</td>
             <td>Логін творця списку</td>
@@ -117,18 +136,5 @@
             <td>Короткий опис комплексу вправ</td>
             <td>Текст</td>
             <td>Довжина <= 300 символів</td>
-        </tr>
-        <tr>
-            <td rowspan="2">Basket</td>
-            <td>Total cost</td>
-            <td>Сума продуктів у кошику</td>
-            <td>Число</td>
-            <td>Значення < 100000</td>
-        </tr>
-        <tr>
-            <td>Condition</td>
-            <td>Статус набору</td>
-            <td>Текст</td>
-            <td>Довжина <= 50 символів</td>
         </tr>
 </table>
